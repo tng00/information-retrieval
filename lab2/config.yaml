@@ -1,0 +1,17 @@
+db:
+  host: "localhost"
+  port: 27017
+  db_name: "cyberleninka_db"
+  docs_collection: "documents"
+  queue_collection: "url_queue"
+
+logic:
+  user_agent: "MAI Search Bot (student-project)"
+  delay_sec: 1
+
+crawler:
+  seed_urls:
+    - "https://cyberleninka.ru/article/c/clinical-medicine"
+    - "https://cyberleninka.ru/article/c/health-sciences"
+  allowed_domains:
+    - "cyberleninka.ru"

@@ -1,0 +1,45 @@
+\section{Требования к компиляции и запуску}
+
+\subsection{Требования к окружению}
+\begin{itemize}
+    \item ОС: Linux-совместимая (например, Ubuntu в WSL)
+    \item Компилятор C++: g++
+    \item Интерпретатор Python 3.8+
+    \item Система управления пакетами Python: pip
+    \item База данных: MongoDB (запущенная через Docker)
+\end{itemize}
+
+\subsection{Последовательность сборки и запуска}
+
+\begin{enumerate}
+    \item Установить зависимости Python из файла \texttt{requirements.txt}:
+    \begin{lstlisting}[language=bash]
+pip install -r requirements.txt
+    \end{lstlisting}
+
+    \item Скомпилировать C++-утилиты (токенизатор, индексатор, поисковик):
+    \begin{lstlisting}[language=bash]
+g++ -O2 -o tokenizer tokenizer.cpp
+g++ -O2 -o indexer indexer.cpp
+g++ -O2 -o searcher searcher.cpp
+    \end{lstlisting}
+
+    \item Запустить Docker-контейнер с MongoDB:
+    \begin{lstlisting}[language=bash]
+docker start mongo_container
+    \end{lstlisting}
+
+    \item Запустить процесс построения индекса с помощью скрипта-оркестратора:
+    \begin{lstlisting}[language=bash]
+./run_indexing.sh
+    \end{lstlisting}
+
+    \item Запустить веб-сервис для демонстрации поиска:
+    \begin{lstlisting}[language=bash]
+python3 app.py
+    \end{lstlisting}
+
+    \item Открыть в браузере адрес \texttt{http://127.0.0.1:5000}.
+\end{enumerate}
+
+\newpage
