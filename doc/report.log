@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.3.15)  26 DEC 2025 04:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.3.15)  30 DEC 2025 06:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -538,28 +538,36 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count289
+\float@exts=\toks27
+\float@box=\box59
+\@float@everytoks=\toks28
+\@floatcapt=\box60
+)
 (/usr/share/texlive/texmf-dist/tex/latex/listingsutf8/listingsutf8.sty
 Package: listingsutf8 2019-12-10 v1.5 Allow UTF-8 in listings input (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count289
-\lst@gtempboxa=\box59
-\lst@token=\toks27
-\lst@length=\count290
+\lst@mode=\count290
+\lst@gtempboxa=\box61
+\lst@token=\toks29
+\lst@length=\count291
 \lst@currlwidth=\dimen156
-\lst@column=\count291
-\lst@pos=\count292
+\lst@column=\count292
+\lst@pos=\count293
 \lst@lostspace=\dimen157
 \lst@width=\dimen158
-\lst@newlines=\count293
-\lst@lineno=\count294
+\lst@newlines=\count294
+\lst@lineno=\count295
 \lst@maxwidth=\dimen159
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count295
-\lst@skipnumbers=\count296
-\lst@framebox=\box60
+\c@lstnumber=\count296
+\lst@skipnumbers=\count297
+\lst@framebox=\box62
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
@@ -578,15 +586,15 @@ Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count297
+\etb@tempcnta=\count298
 )
-\csq@reset=\count298
-\csq@gtype=\count299
-\csq@glevel=\count300
-\csq@qlevel=\count301
-\csq@maxlvl=\count302
-\csq@tshold=\count303
-\csq@ltx@everypar=\toks28
+\csq@reset=\count299
+\csq@gtype=\count300
+\csq@glevel=\count301
+\csq@qlevel=\count302
+\csq@maxlvl=\count303
+\csq@tshold=\count304
+\csq@ltx@everypar=\toks30
 
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
@@ -626,8 +634,8 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count304
-\l__pdf_internal_box=\box61
+\l__color_backend_stack_int=\count305
+\l__pdf_internal_box=\box63
 )
 
 LaTeX Warning: Unused global option(s):
@@ -667,7 +675,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count305
+\c@section@level=\count306
 )
 LaTeX Info: Redefining \ref on input line 30.
 LaTeX Info: Redefining \pageref on input line 30.
@@ -680,17 +688,17 @@ LaTeX Info: Redefining \nameref on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count306
+\scratchcounter=\count307
 \scratchdimen=\dimen162
-\scratchbox=\box62
-\nofMPsegments=\count307
-\nofMParguments=\count308
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count309
+\scratchbox=\box64
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count310
 \MPscratchDim=\dimen163
-\MPnumerator=\count310
-\makeMPintoPDFobject=\count311
-\everyMPtoPDFconversion=\toks30
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -700,7 +708,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\c@lstlisting=\count312
+\c@lstlisting=\count313
 
 (./src/titlepage.tex
 LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
@@ -716,12 +724,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]) (./src/1.tex
 LaTeX Font Info:    Trying to load font information for T2B+cmtt on input line 
-4.
+6.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2bcmtt.fd
 File: t2bcmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (22.14082pt too wide) in paragraph at lines 4--5
+Overfull \hbox (22.14082pt too wide) in paragraph at lines 6--7
 \T2B/cmr/m/n/12 В ка-че-стве ис-точ-ни-ка дан-ных был ис-поль-зо-ван пор-тал на
 -уч-ных пуб-ли-ка-ций CyberLeninka
  []
@@ -730,33 +738,48 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.13 \newpage
+l.15 \newpage
               [1]
-</home/tng00/information-retrieval/doc/img/1.png, id=130, 781.92125pt x 930.476
-26pt>
+</home/tng00/information-retrieval/doc/img/1.png, id=34, 781.92125pt x 930.4762
+6pt>
 File: /home/tng00/information-retrieval/doc/img/1.png Graphic file (type png)
 <use /home/tng00/information-retrieval/doc/img/1.png>
 Package pdftex.def Info: /home/tng00/information-retrieval/doc/img/1.png  used 
-on input line 16.
+on input line 18.
 (pdftex.def)             Requested size: 273.14922pt x 325.04686pt.
- [2 </home/tng00/information-retrieval/doc/img/1.png (PNG copy)>]
-</home/tng00/information-retrieval/doc/img/2.jpg, id=136, 770.88pt x 610.6815pt
->
+ [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.23 \newpage
+              </home/tng00/information-retrieval/doc/img/1.png (PNG copy)>]
+</home/tng00/information-retrieval/doc/img/2.jpg, id=40, 770.88pt x 610.6815pt>
+
 File: /home/tng00/information-retrieval/doc/img/2.jpg Graphic file (type jpg)
 <use /home/tng00/information-retrieval/doc/img/2.jpg>
 Package pdftex.def Info: /home/tng00/information-retrieval/doc/img/2.jpg  used 
-on input line 24.
+on input line 26.
 (pdftex.def)             Requested size: 273.14922pt x 216.37878pt.
- [3 </home/tng00/information-retrieval/doc/img/2.jpg>]) (./src/robot.tex
-[4]) (./src/tokenization.tex [5]) (./src/zipf.tex
-<img/3.png, id=152, 722.7pt x 433.62pt>
+
+[3pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 
+      </home/tng00/information-retrieval/doc/img/2.jpg>] [4]) (./src/robot.tex
+[5]) (./src/tokenization.tex [6]
+<img/3.png, id=73, 722.7pt x 433.62pt>
 File: img/3.png Graphic file (type png)
 <use img/3.png>
-Package pdftex.def Info: img/3.png  used on input line 8.
+Package pdftex.def Info: img/3.png  used on input line 30.
 (pdftex.def)             Requested size: 409.71689pt x 245.82944pt.
- [6 <./img/3.png>] [7])
-(./src/stemming.tex
-Overfull \hbox (8.93361pt too wide) in paragraph at lines 9--10
+ [7pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.44 
+      <./img/3.png>]
+Overfull \hbox (8.93361pt too wide) in paragraph at lines 47--48
 \T2B/cmr/m/n/12 мер, за-прос \T2B/cmtt/m/n/12 [современная терапия] \T2B/cmr/m/
 n/12 по-сле об-ра-бот-ки пре-вра-тит-ся в \T2B/cmtt/m/n/12 [современ терап]\T2B
 /cmr/m/n/12 .
@@ -764,31 +787,48 @@ n/12 по-сле об-ра-бот-ки пре-вра-тит-ся в \T2B/cmtt/m/n/12 [современ терап]\T2B
 
 [8]) (./src/boolean_index.tex
 LaTeX Font Info:    Font shape `T2B/cmtt/bx/n' in size <12> not available
-(Font)              Font shape `T2B/cmtt/m/n' tried instead on input line 6.
+(Font)              Font shape `T2B/cmtt/m/n' tried instead on input line 7.
 
-Overfull \hbox (18.55695pt too wide) in paragraph at lines 7--8
+Overfull \hbox (18.55695pt too wide) in paragraph at lines 8--9
 \T2B/cmr/m/n/12 та встре-ча-е-мо-сти в до-ку-мен-тах (\T2B/cmtt/m/n/12 doc_freq
 uency\T2B/cmr/m/n/12 ) и сме-ще-ние в фай-ле \T2B/cmtt/m/n/12 postings.dat\T2B/
 cmr/m/n/12 . 
  []
 
 [9] [10]) (./src/boolean_search.tex
-Overfull \hbox (4.23384pt too wide) in paragraph at lines 11--12
+Overfull \hbox (4.23384pt too wide) in paragraph at lines 13--14
 []\T2B/cmr/bx/n/12 Запросы с боль-шим ко-ли-че-ством опе-ра-то-ров OR: \T2B/cmr
 /m/n/12 За-прос ви-да \T2B/cmtt/m/n/12 [результат
  []
 
-<img/4.png, id=178, 855.195pt x 563.10374pt>
+[11]
+<img/4.png, id=117, 855.195pt x 563.10374pt>
 File: img/4.png Graphic file (type png)
 <use img/4.png>
-Package pdftex.def Info: img/4.png  used on input line 25.
+Package pdftex.def Info: img/4.png  used on input line 28.
 (pdftex.def)             Requested size: 409.71689pt x 269.77979pt.
-<img/5.png, id=179, 841.1425pt x 261.97874pt>
+<img/5.png, id=118, 841.1425pt x 261.97874pt>
 File: img/5.png Graphic file (type png)
 <use img/5.png>
-Package pdftex.def Info: img/5.png  used on input line 31.
+Package pdftex.def Info: img/5.png  used on input line 34.
 (pdftex.def)             Requested size: 409.71689pt x 127.6072pt.
-[11] [12 <./img/4.png (PNG copy)> <./img/5.png (PNG copy)>])
+
+Overfull \hbox (26.22186pt too wide) in paragraph at lines 42--43
+\T2B/cmr/m/n/12 В рам-ках дан-ной ра-бо-ты бы-ла со-зда-на пол-но-цен-ная по-ис
+-ко-вая си-сте-ма с веб-интерфейсом.
+ []
+
+[12pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.43 
+     pdfTeX warning (ext4): destination with the same identifier (name{figure.5
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.43 
+      <./img/4.png (PNG copy)> <./img/5.png (PNG copy)>] [13])
 (./src/compilation.tex
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
@@ -820,33 +860,33 @@ Package csquotes Info: Input encoding change on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/koi8-r.def
 File: koi8-r.def 2014/10/28 v1.0d Input encoding file
-) [13])
-(./src/conclusion.tex
-Overfull \hbox (1.42365pt too wide) in paragraph at lines 14--15
-[]\T2B/cmr/m/n/12 Разработанная си-сте-ма успеш-но вы-пол-ня-ет по-став-лен-ные
- за-да-чи, де-мон-стри-ру-ет кор-
- []
-
-[14]) (./src/literature.tex) [15] (./src/application.tex) [16] (./report.aux)
+) [14])
+(./src/literature.tex) [15] (./report.aux)
 
 Package rerunfilecheck Warning: File `report.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: 96C4FC28621204AB0A33A834BD77CFAB;6462
-(rerunfilecheck)             After:  BFD5ACFE9AEC4E2C38C33FE3FDC2C12A;6337.
+(rerunfilecheck)             Before: 574F4E0C1F0BEB23676993FA3F59EF51;877
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15193 strings out of 479680
- 228046 string characters out of 5886682
- 754104 words of memory out of 5000000
- 32804 multiletter control sequences out of 15000+600000
+ 15224 strings out of 479680
+ 228526 string characters out of 5886682
+ 755223 words of memory out of 5000000
+ 32834 multiletter control sequences out of 15000+600000
  480928 words of font info for 57 fonts, out of 8000000 for 9000
  452 hyphenation exceptions out of 8191
- 75i,7n,77p,763b,1674s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.10} has been referenced but does not exis
-t, replaced by a fixed one
+ 75i,7n,77p,1085b,1675s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{subsection.1.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.1} has been referenced but does not exist, 
+replaced by a fixed one
 
  </home/tng00/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbti1200.600pk> 
 </home/tng00/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbtt1000.600pk> <
@@ -857,10 +897,10 @@ home/tng00/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbrm1200.600pk> </h
 ome/tng00/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbbx1200.600pk> </ho
 me/tng00/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbbx1440.600pk> </hom
 e/tng00/.texlive2021/texmf-var/fonts/pk/ljfour/lh/lh-t2b/lbbx1728.600pk>
-Output written on report.pdf (17 pages, 708495 bytes).
+Output written on report.pdf (16 pages, 705966 bytes).
 PDF statistics:
- 705 PDF objects out of 1000 (max. 8388607)
- 257 compressed objects within 3 object streams
- 75 named destinations out of 1000 (max. 500000)
- 250 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 634 PDF objects out of 1000 (max. 8388607)
+ 194 compressed objects within 2 object streams
+ 84 named destinations out of 1000 (max. 500000)
+ 50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
